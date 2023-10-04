@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
+import {HashRouter as Router,Route,Routes} from 'react-router-dom';
 import Contacts from './components/contacts/Contacts';
 import Header from './components/layout/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
